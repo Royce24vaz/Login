@@ -1,0 +1,49 @@
+body {
+    
+}
+h3 span{
+    color:green;
+}
+div{
+    padding:2px 10px;
+}
+.but{
+    background-color:green;
+    color:white;
+    text-decoration:none;
+    padding:2px 10px;
+}
+input{
+    width:300px;
+    height:40px;
+}
+span a {
+  color:green;
+}
+.account  a span{
+    color:green;
+}
+a{
+    font-weight:bold;
+    text-decoration:none;
+}
+.fog p {
+    font-size:16px;
+    font-style:italic ;
+}
+.fog{
+    background-color:black;
+    padding:12px 16px;
+    color:white;
+    border-radius:25px;
+    text-align:center;
+}
+.login {}
+.fog button{
+
+     border:none;
+     width:70px;
+     Height:40px;
+    background-color:blue;
+    color:white;
+}
